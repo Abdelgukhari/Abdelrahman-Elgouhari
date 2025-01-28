@@ -18,13 +18,13 @@ function Projects() {
         />
         <ProjectCard
           src={dogcat}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/Abdelgukhari/Cat-Vs-Dog-Image-Classification-CNN-Project"
           h3="Ai pet classifier"
           p="Dog & cat classifier using AI"
         />
         <ProjectCard
           src={portofolio}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/Abdelgukhari/Abdelrahman-Elgouhari"
           h3="Abdelrahman Elgouhari"
           p="Personal portfolio website"
         />
