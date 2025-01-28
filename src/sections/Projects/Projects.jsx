@@ -20,7 +20,7 @@ function Projects() {
           src={dogcat}
           link="https://github.com/Abdelgukhari/Cat-Vs-Dog-Image-Classification-CNN-Project"
           h3="Ai pet classifier"
-          p="Dog & cat classifier using AI"
+          p="Dog & Cat classifier using AI"
         />
         <ProjectCard
           src={portofolio}
