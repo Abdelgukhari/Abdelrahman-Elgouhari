@@ -2,7 +2,7 @@ import styles from './ProjectsStyles.module.css';
 import to_do from '../../assets/to_do.png';
 import dogcat from '../../assets/dogcat.png';
 import portofolio from '../../assets/portofolioapp.png';
-import fitLift from '../../assets/fitlift.png';
+import heybudget from '../../assets/budgetapp.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -27,6 +27,12 @@ function Projects() {
           link="https://github.com/Abdelgukhari/Abdelrahman-Elgouhari"
           h3="Abdelrahman Elgouhari"
           p="Personal portfolio website"
+        />
+        <ProjectCard
+          src={heybudget}
+          link="https://github.com/Abdelgukhari/Budget-App"
+          h3="Hey Budget"
+          p="Budgeting app"
         />
        
       </div>
