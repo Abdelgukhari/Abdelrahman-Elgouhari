@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={to_do}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/Abdelgukhari/To-Do-List-New"
           h3="Action"
           p="To do Web App"
         />
